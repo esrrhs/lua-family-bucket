@@ -1,5 +1,4 @@
-# lua-family-bucket
-Lua全家桶
+# Lua全家桶
 
 ### lua调试 [dLua](https://github.com/esrrhs/dLua)
 
