@@ -6,7 +6,7 @@
 
 ### lua调试 [dLua](https://github.com/esrrhs/dLua)
 
-### lua计算Diff和Patch [fLua](https://github.com/esrrhs/fLua)
+### lua计算diff和patch [fLua](https://github.com/esrrhs/fLua)
 
 ### lua优化 [oLua](https://github.com/esrrhs/oLua)
 
