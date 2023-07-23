@@ -8,7 +8,7 @@
 
 ### lua计算diff和patch [fLua](https://github.com/esrrhs/fLua)
 
-### lua的内存优化管理工具 [mLua](https://github.com/esrrhs/mLua)
+### lua的内存优化工具 [mLua](https://github.com/esrrhs/mLua)
 
 ### lua优化 [oLua](https://github.com/esrrhs/oLua)
 
