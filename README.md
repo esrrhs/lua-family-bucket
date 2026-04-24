@@ -14,5 +14,7 @@
 
 ### lua性能分析 [pLua](https://github.com/esrrhs/pLua)
 
+### lua虚拟机性能分析 [wLua](https://github.com/esrrhs/vLua)
+
 ### lua状态监控 [wLua](https://github.com/esrrhs/wLua)
 
