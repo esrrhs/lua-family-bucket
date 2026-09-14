@@ -1,20 +1,42 @@
-# Lua全家桶
+# Lua全家桶 / Lua Family Bucket
 
-### lua与c++绑定 [bLua](https://github.com/esrrhs/bLua)
+> 精选且实用的 Lua 开源工具链全家桶（绑定、调试、性能分析、优化与监控）
+> A curated collection of essential Lua tools and libraries (binding, debugging, profiling, optimization, and monitoring).
 
-### lua代码覆盖率 [cLua](https://github.com/esrrhs/cLua)
+---
 
-### lua调试 [dLua](https://github.com/esrrhs/dLua)
+### [bLua](https://github.com/esrrhs/bLua)
+- **中文**: Lua 与 C++ 绑定库
+- **English**: Lua and C++ binding library
 
-### lua计算diff和patch [fLua](https://github.com/esrrhs/fLua)
+### [cLua](https://github.com/esrrhs/cLua)
+- **中文**: Lua 代码覆盖率统计工具
+- **English**: Lua code coverage tool
 
-### lua的内存优化工具 [mLua](https://github.com/esrrhs/mLua)
+### [dLua](https://github.com/esrrhs/dLua)
+- **中文**: Lua 调试器
+- **English**: Lua debugger
 
-### lua优化 [oLua](https://github.com/esrrhs/oLua)
+### [fLua](https://github.com/esrrhs/fLua)
+- **中文**: Lua 计算 diff 和 patch 工具
+- **English**: Lua diff and patch tool
 
-### lua性能分析 [pLua](https://github.com/esrrhs/pLua)
+### [mLua](https://github.com/esrrhs/mLua)
+- **中文**: Lua 内存优化与分析工具
+- **English**: Lua memory optimization and analysis tool
 
-### lua虚拟机性能分析 [vLua](https://github.com/esrrhs/vLua)
+### [oLua](https://github.com/esrrhs/oLua)
+- **中文**: Lua 字节码优化工具
+- **English**: Lua optimizer
 
-### lua状态监控 [wLua](https://github.com/esrrhs/wLua)
+### [pLua](https://github.com/esrrhs/pLua)
+- **中文**: Lua 性能分析工具 (Profiler)
+- **English**: Lua performance profiler
 
+### [vLua](https://github.com/esrrhs/vLua)
+- **中文**: Lua 虚拟机内部性能与指令分析
+- **English**: Lua VM profiler and analysis tool
+
+### [wLua](https://github.com/esrrhs/wLua)
+- **中文**: Lua 状态与指标监控工具
+- **English**: Lua state and metrics watcher/monitor
